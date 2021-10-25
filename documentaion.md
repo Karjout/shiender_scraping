@@ -1,7 +1,7 @@
 # By Karjout Abdeslam <br/>
 # step1 = "install required modules" <br/>
-    modules ="requests , json, BeautifulSoup'<br/>
-    install Module =" pip3 install <ModuleName>"<br/>
+    modules ="requests , json, BeautifulSoup' <br/>
+    install Module =" pip3 install <ModuleName>" <br/>
     examples = "pip 3 install json"  <br/>
 
 # step 2 = <br/>
