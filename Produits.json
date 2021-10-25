@@ -6,7 +6,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=61645&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric 865-1030-1 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/865-1030-1/solar-charge-controller---xw-mppt60-150---12...60v-dc---2.5w/"
+    "pdpUrl": "https://www.se.com/ww/en/product/865-1030-1/solar-charge-controller---xw-mppt60-150---12...60v-dc---2.5w/",
+    "available": false
 }
 {
     "repositoryId": "865-1032",
@@ -16,7 +17,8 @@
     "currency": "null",
     "pictureUrl": "https://www.se.com/ww/shop-static/assets/images/brand/NoImageAvailable.png",
     "pictureAltText": "Schneider Electric 865-1032 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/865-1032/solar-charge-controller---xw-mppt60-150---12...60v-dc---2.5w/"
+    "pdpUrl": "https://www.se.com/ww/en/product/865-1032/solar-charge-controller---xw-mppt60-150---12...60v-dc---2.5w/",
+    "available": false
 }
 {
     "repositoryId": "C12",
@@ -26,7 +28,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=C60+CSeries&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric C12 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/C12/c-series---charge-controller-c12---12v-dc---load-12a/"
+    "pdpUrl": "https://www.se.com/ww/en/product/C12/c-series---charge-controller-c12---12v-dc---load-12a/",
+    "available": false
 }
 {
     "repositoryId": "C35",
@@ -36,7 +39,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=C35+PWM&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric C35 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/C35/c-series---charge-controller-c35---12...24v-dc---load-35a/"
+    "pdpUrl": "https://www.se.com/ww/en/product/C35/c-series---charge-controller-c35---12...24v-dc---load-35a/",
+    "available": false
 }
 {
     "repositoryId": "C40",
@@ -46,7 +50,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=C40+PWM&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric C40 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/C40/c-series---charge-controller-c40---12...48-v-dc---load-40a/"
+    "pdpUrl": "https://www.se.com/ww/en/product/C40/c-series---charge-controller-c40---12...48-v-dc---load-40a/",
+    "available": false
 }
 {
     "repositoryId": "C60",
@@ -56,7 +61,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=C60+PWM&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric C60 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/C60/c-series---charge-controller-c60---12...24v-dc---load-60a/"
+    "pdpUrl": "https://www.se.com/ww/en/product/C60/c-series---charge-controller-c60---12...24v-dc---load-60a/",
+    "available": false
 }
 {
     "repositoryId": "OVA58200",
@@ -66,7 +72,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=P109942&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric OVA58200 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/OVA58200/centralized-source---230-v---fuse-protection---1h-autonomy/"
+    "pdpUrl": "https://www.se.com/ww/en/product/OVA58200/centralized-source---230-v---fuse-protection---1h-autonomy/",
+    "available": true
 }
 {
     "repositoryId": "OVA58201",
@@ -76,7 +83,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=P109942&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric OVA58201 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/OVA58201/centralized-source---230-v---fuse-protection---1h-autonomy/"
+    "pdpUrl": "https://www.se.com/ww/en/product/OVA58201/centralized-source---230-v---fuse-protection---1h-autonomy/",
+    "available": true
 }
 {
     "repositoryId": "OVA58202",
@@ -86,7 +94,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=P109942&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric OVA58202 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/OVA58202/centralized-source---230-v---fuse-protection---1h-autonomy/"
+    "pdpUrl": "https://www.se.com/ww/en/product/OVA58202/centralized-source---230-v---fuse-protection---1h-autonomy/",
+    "available": true
 }
 {
     "repositoryId": "OVA58203",
@@ -96,7 +105,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=P109942&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric OVA58203 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/OVA58203/centralized-source---230-v---fuse-protection---1h-autonomy/"
+    "pdpUrl": "https://www.se.com/ww/en/product/OVA58203/centralized-source---230-v---fuse-protection---1h-autonomy/",
+    "available": true
 }
 {
     "repositoryId": "OVA58204",
@@ -106,7 +116,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=P109950&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric OVA58204 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/OVA58204/centralized-source---230-v---fuse-protection---6h-autonomy/"
+    "pdpUrl": "https://www.se.com/ww/en/product/OVA58204/centralized-source---230-v---fuse-protection---6h-autonomy/",
+    "available": true
 }
 {
     "repositoryId": "OVA58205",
@@ -116,7 +127,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=P109942&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric OVA58205 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/OVA58205/centralized-source---230-v---circuit-breaker-protection-protection---1h-autonomy/"
+    "pdpUrl": "https://www.se.com/ww/en/product/OVA58205/centralized-source---230-v---circuit-breaker-protection-protection---1h-autonomy/",
+    "available": true
 }
 {
     "repositoryId": "OVA58206",
@@ -126,7 +138,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=P109942&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric OVA58206 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/OVA58206/centralized-source---230-v---circuit-breaker-protection-protection---1h-autonomy/"
+    "pdpUrl": "https://www.se.com/ww/en/product/OVA58206/centralized-source---230-v---circuit-breaker-protection-protection---1h-autonomy/",
+    "available": true
 }
 {
     "repositoryId": "A9A26975",
@@ -136,7 +149,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=ODAPB104490&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9A26975 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9A26975/terminal-shield---1-pole---18-mm---for-ic60%2C-iid%2C-reflex-ic60%2C-isw-na/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9A26975/terminal-shield---1-pole---18-mm---for-ic60%2C-iid%2C-reflex-ic60%2C-isw-na/",
+    "available": false
 }
 {
     "repositoryId": "A9A26976",
@@ -146,7 +160,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=ODAPB104491&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9A26976 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9A26976/terminal-shield---2-poles---36-mm---for-ic60%2C-iid%2C-reflex-ic60%2C-isw-na/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9A26976/terminal-shield---2-poles---36-mm---for-ic60%2C-iid%2C-reflex-ic60%2C-isw-na/",
+    "available": false
 }
 {
     "repositoryId": "A9A26981",
@@ -156,7 +171,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=ODAPB104488&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9A26981 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9A26981/screw-shield---4-poles---72-mm---for-ic60%2C-iid%2C-reflex-ic60%2C-isw-na/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9A26981/screw-shield---4-poles---72-mm---for-ic60%2C-iid%2C-reflex-ic60%2C-isw-na/",
+    "available": false
 }
 {
     "repositoryId": "A9A26982",
@@ -166,7 +182,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=ODAPB104489&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9A26982 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9A26982/screw-shield---1-pole---18-mm---for-vigi-ic60/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9A26982/screw-shield---1-pole---18-mm---for-vigi-ic60/",
+    "available": false
 }
 {
     "repositoryId": "A9A27001",
@@ -176,7 +193,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=ODAA9A27001&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9A27001 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9A27001/interphase-barriers---for-ic60%2C-iid%2C-reflex-ic60%2C-isw-na/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9A27001/interphase-barriers---for-ic60%2C-iid%2C-reflex-ic60%2C-isw-na/",
+    "available": false
 }
 {
     "repositoryId": "W875-4315",
@@ -186,7 +204,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RSG4K_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric W875-4315 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/W875-4315/valve-ball-full-port-1%22-with-union---spare-part/"
+    "pdpUrl": "https://www.se.com/ww/en/product/W875-4315/valve-ball-full-port-1%22-with-union---spare-part/",
+    "available": false
 }
 {
     "repositoryId": "NBAC0103",
@@ -196,7 +215,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RTU5H_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric NBAC0103 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0103/apc-netbotz-universal-power-supply/"
+    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0103/apc-netbotz-universal-power-supply/",
+    "available": true
 }
 {
     "repositoryId": "NBAC0122",
@@ -206,7 +226,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RSGPW_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric NBAC0122 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0122/dual-power-supply-%28-5v-3.3v%29-for-netbotz-500/"
+    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0122/dual-power-supply-%28-5v-3.3v%29-for-netbotz-500/",
+    "available": true
 }
 {
     "repositoryId": "NBAC0213L",
@@ -216,7 +237,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RT7NX_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric NBAC0213L Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0213L/netbotz-usb-latching-repeater-cable%2C-lszh---5m/"
+    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0213L/netbotz-usb-latching-repeater-cable%2C-lszh---5m/",
+    "available": true
 }
 {
     "repositoryId": "NBAC0213P",
@@ -226,7 +248,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RTN5V_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric NBAC0213P Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0213P/netbotz-usb-latching-repeater-cable%2C-plenum---5m/"
+    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0213P/netbotz-usb-latching-repeater-cable%2C-plenum---5m/",
+    "available": true
 }
 {
     "repositoryId": "NBAC0214L",
@@ -236,7 +259,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RU2KG_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric NBAC0214L Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0214L/netbotz-usb-latching-cable%2C-lszh---5m/"
+    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0214L/netbotz-usb-latching-cable%2C-lszh---5m/",
+    "available": true
 }
 {
     "repositoryId": "NBAC0214P",
@@ -246,7 +270,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RSQPW_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric NBAC0214P Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0214P/netbotz-usb-latching-cable%2C-plenum---5m/"
+    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0214P/netbotz-usb-latching-cable%2C-plenum---5m/",
+    "available": true
 }
 {
     "repositoryId": "NBAC0221",
@@ -256,7 +281,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RT3B3_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric NBAC0221 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0221/apc-netbotz-pod-mounting-kit/"
+    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0221/apc-netbotz-pod-mounting-kit/",
+    "available": true
 }
 {
     "repositoryId": "NBAC0236",
@@ -266,7 +292,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RU9RD_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric NBAC0236 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0236/netbotz-small-device-tray/"
+    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0236/netbotz-small-device-tray/",
+    "available": true
 }
 {
     "repositoryId": "NBAC0301",
@@ -276,7 +303,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RRRZA_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric NBAC0301 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0301/surface-mounting-brackets-for-netbotz-room-monitor-appliance-or-camera-pod/"
+    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0301/surface-mounting-brackets-for-netbotz-room-monitor-appliance-or-camera-pod/",
+    "available": true
 }
 {
     "repositoryId": "NBAC0302",
@@ -286,7 +314,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RTBF7_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric NBAC0302 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0302/rack-mounting-bracket-for-netbotz-camera-pod-160/"
+    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0302/rack-mounting-bracket-for-netbotz-camera-pod-160/",
+    "available": true
 }
 {
     "repositoryId": "NBAC0303NA",
@@ -296,7 +325,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RUELG_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric NBAC0303NA Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0303NA/apc-poe-injector/"
+    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0303NA/apc-poe-injector/",
+    "available": true
 }
 {
     "repositoryId": "NBAC0303NA2",
@@ -306,7 +336,8 @@
     "currency": "null",
     "pictureUrl": "https://www.se.com/ww/shop-static/assets/images/brand/NoImageAvailable.png",
     "pictureAltText": "Schneider Electric NBAC0303NA2 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0303NA2/apc-poe-injector/"
+    "pdpUrl": "https://www.se.com/ww/en/product/NBAC0303NA2/apc-poe-injector/",
+    "available": true
 }
 {
     "repositoryId": "66061",
@@ -316,7 +347,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RUNJF_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric 66061 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/66061/mge-jbus-modbus-card/"
+    "pdpUrl": "https://www.se.com/ww/en/product/66061/mge-jbus-modbus-card/",
+    "available": true
 }
 {
     "repositoryId": "66074",
@@ -326,7 +358,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RTRD3_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric 66074 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/66074/mge-snmp-web-card/"
+    "pdpUrl": "https://www.se.com/ww/en/product/66074/mge-snmp-web-card/",
+    "available": true
 }
 {
     "repositoryId": "66077",
@@ -336,7 +369,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RTEQG_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric 66077 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/66077/mge-kit-network-management-link/"
+    "pdpUrl": "https://www.se.com/ww/en/product/66077/mge-kit-network-management-link/",
+    "available": true
 }
 {
     "repositoryId": "66096",
@@ -346,7 +380,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RU7AT_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric 66096 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/66096/mge-powerservices-telpac-card/"
+    "pdpUrl": "https://www.se.com/ww/en/product/66096/mge-powerservices-telpac-card/",
+    "available": true
 }
 {
     "repositoryId": "66123",
@@ -356,7 +391,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RT8Q9_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric 66123 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/66123/mge-network-management-card-with-modbus-jbus/"
+    "pdpUrl": "https://www.se.com/ww/en/product/66123/mge-network-management-card-with-modbus-jbus/",
+    "available": true
 }
 {
     "repositoryId": "66124",
@@ -366,7 +402,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RTHHM_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric 66124 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/66124/mge-network-management-card-teleservice-card/"
+    "pdpUrl": "https://www.se.com/ww/en/product/66124/mge-network-management-card-teleservice-card/",
+    "available": true
 }
 {
     "repositoryId": "PD3P100AT1B",
@@ -376,7 +413,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RRTSS_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PD3P100AT1B Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PD3P100AT1B/3-pole-circuit-breaker%2C-100a%2C-t1-type-for-symmetra-px250-500kw/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PD3P100AT1B/3-pole-circuit-breaker%2C-100a%2C-t1-type-for-symmetra-px250-500kw/",
+    "available": true
 }
 {
     "repositoryId": "PD3P125AT3B",
@@ -386,7 +424,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RTRNU_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PD3P125AT3B Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PD3P125AT3B/3-pole-circuit-breaker%2C-125a%2C-t3-type-for-symmetra-px250-500kw/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PD3P125AT3B/3-pole-circuit-breaker%2C-125a%2C-t3-type-for-symmetra-px250-500kw/",
+    "available": true
 }
 {
     "repositoryId": "PD3P150AT3B",
@@ -396,7 +435,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RTRNU_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PD3P150AT3B Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PD3P150AT3B/3-pole-circuit-breaker%2C-150a%2C-t3-type-for-symmetra-px250-500kw/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PD3P150AT3B/3-pole-circuit-breaker%2C-150a%2C-t3-type-for-symmetra-px250-500kw/",
+    "available": true
 }
 {
     "repositoryId": "PD3P175AT3B",
@@ -406,7 +446,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RTRNU_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PD3P175AT3B Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PD3P175AT3B/3-pole-circuit-breaker%2C-175a%2C-t3-type-for-symmetra-px250-500kw/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PD3P175AT3B/3-pole-circuit-breaker%2C-175a%2C-t3-type-for-symmetra-px250-500kw/",
+    "available": true
 }
 {
     "repositoryId": "PD3P200AT3B",
@@ -416,7 +457,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RTRNU_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PD3P200AT3B Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PD3P200AT3B/3-pole-circuit-breaker%2C-200a%2C-t3-type-for-symmetra-px250-500kw/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PD3P200AT3B/3-pole-circuit-breaker%2C-200a%2C-t3-type-for-symmetra-px250-500kw/",
+    "available": true
 }
 {
     "repositoryId": "PD3P225AT3B",
@@ -426,7 +468,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RTRNU_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PD3P225AT3B Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PD3P225AT3B/3-pole-circuit-breaker%2C-225a%2C-t3-type-for-symmetra-px250-500kw/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PD3P225AT3B/3-pole-circuit-breaker%2C-225a%2C-t3-type-for-symmetra-px250-500kw/",
+    "available": true
 }
 {
     "repositoryId": "PD3P300AETT5B",
@@ -436,7 +479,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_EWAR-993PFB_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PD3P300AETT5B Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PD3P300AETT5B/3-pole-circuit-breaker%2C-300a%2C-electronic-trip%2C-t5-type-for-symmetra-px250-500kw/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PD3P300AETT5B/3-pole-circuit-breaker%2C-300a%2C-electronic-trip%2C-t5-type-for-symmetra-px250-500kw/",
+    "available": true
 }
 {
     "repositoryId": "PD3P300AT5B",
@@ -446,7 +490,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RRUKA_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PD3P300AT5B Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PD3P300AT5B/3-pole-circuit-breaker%2C-300a%2C-t5-type-for-symmetra-px250-500kw/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PD3P300AT5B/3-pole-circuit-breaker%2C-300a%2C-t5-type-for-symmetra-px250-500kw/",
+    "available": true
 }
 {
     "repositoryId": "PD3P400AT5B",
@@ -456,7 +501,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RRUKA_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PD3P400AT5B Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PD3P400AT5B/3-pole-circuit-breaker%2C-400a%2C-t5-type-for-symmetra-px250-500kw/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PD3P400AT5B/3-pole-circuit-breaker%2C-400a%2C-t5-type-for-symmetra-px250-500kw/",
+    "available": true
 }
 {
     "repositoryId": "PD3P60AT1B",
@@ -466,7 +512,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RRTSS_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PD3P60AT1B Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PD3P60AT1B/3-pole-circuit-breaker%2C-60a%2C-t1-type-for-symmetra-px250-500kw/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PD3P60AT1B/3-pole-circuit-breaker%2C-60a%2C-t1-type-for-symmetra-px250-500kw/",
+    "available": true
 }
 {
     "repositoryId": "PD3P70AT1B",
@@ -476,7 +523,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RRTSS_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PD3P70AT1B Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PD3P70AT1B/3-pole-circuit-breaker%2C-70a%2C-t1-type-for-symmetra-px250-500kw/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PD3P70AT1B/3-pole-circuit-breaker%2C-70a%2C-t1-type-for-symmetra-px250-500kw/",
+    "available": true
 }
 {
     "repositoryId": "PD3P80AT1B",
@@ -486,7 +534,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RRTSS_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PD3P80AT1B Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PD3P80AT1B/3-pole-circuit-breaker%2C-80a%2C-t1-type-for-symmetra-px250-500kw/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PD3P80AT1B/3-pole-circuit-breaker%2C-80a%2C-t1-type-for-symmetra-px250-500kw/",
+    "available": true
 }
 {
     "repositoryId": "PDM1316IEC-3P",
@@ -496,7 +545,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RTBE6_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PDM1316IEC-3P Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PDM1316IEC-3P/apc-it-power-distribution-module-3x1-pole-3-wire-16a-3xiec309-300cm%2C-360cm%2C-420cm/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PDM1316IEC-3P/apc-it-power-distribution-module-3x1-pole-3-wire-16a-3xiec309-300cm%2C-360cm%2C-420cm/",
+    "available": true
 }
 {
     "repositoryId": "PDM1332IEC-3P",
@@ -506,7 +556,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RTBE6_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PDM1332IEC-3P Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PDM1332IEC-3P/apc-it-power-distribution-module-3x1-pole-3-wire-32a-3xiec309-300cm%2C-360cm%2C-420cm/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PDM1332IEC-3P/apc-it-power-distribution-module-3x1-pole-3-wire-32a-3xiec309-300cm%2C-360cm%2C-420cm/",
+    "available": true
 }
 {
     "repositoryId": "PDM1332IEC-3P-2",
@@ -516,7 +567,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RTBE6_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PDM1332IEC-3P-2 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PDM1332IEC-3P-2/apc-it-power-distribution-module-3x1-pole-3-wire-32a-3xiec309-480cm%2C-540cm%2C-600cm/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PDM1332IEC-3P-2/apc-it-power-distribution-module-3x1-pole-3-wire-32a-3xiec309-480cm%2C-540cm%2C-600cm/",
+    "available": true
 }
 {
     "repositoryId": "PDM1332IEC-3P-3",
@@ -526,7 +578,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RTBE6_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PDM1332IEC-3P-3 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PDM1332IEC-3P-3/apc-it-power-distribution-module-3x1-pole-3-wire-32a-3xiec309-660cm%2C-720cm%2C-780cm/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PDM1332IEC-3P-3/apc-it-power-distribution-module-3x1-pole-3-wire-32a-3xiec309-660cm%2C-720cm%2C-780cm/",
+    "available": true
 }
 {
     "repositoryId": "PDM2316IEC-3P30R-1",
@@ -536,7 +589,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_SLIE-8BHQ2U_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PDM2316IEC-3P30R-1 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PDM2316IEC-3P30R-1/pwr-dist.-mod.-3x1-pole-3-wire-rcd-16a-3xiec309-300cm%2C-360cm%2C-420cm/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PDM2316IEC-3P30R-1/pwr-dist.-mod.-3x1-pole-3-wire-rcd-16a-3xiec309-300cm%2C-360cm%2C-420cm/",
+    "available": true
 }
 {
     "repositoryId": "PDM2316IEC-3P30R-2",
@@ -546,7 +600,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_SLIE-8BHQ2U_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PDM2316IEC-3P30R-2 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PDM2316IEC-3P30R-2/power-dist%2C-mod.-3x1-pole-3-wire-rcd-16a-3xiec309-480cm%2C-540cm%2C-600cm/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PDM2316IEC-3P30R-2/power-dist%2C-mod.-3x1-pole-3-wire-rcd-16a-3xiec309-480cm%2C-540cm%2C-600cm/",
+    "available": true
 }
 {
     "repositoryId": "PDM2316IEC-3P30R-3",
@@ -556,7 +611,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_SLIE-8BHQ2U_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PDM2316IEC-3P30R-3 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PDM2316IEC-3P30R-3/power-dist.-mod.-3x1-pole-3-wire-rcd-16a-3xiec309-660cm%2C-720cm%2C-780cm/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PDM2316IEC-3P30R-3/power-dist.-mod.-3x1-pole-3-wire-rcd-16a-3xiec309-660cm%2C-720cm%2C-780cm/",
+    "available": true
 }
 {
     "repositoryId": "PDM2332IEC-3P30R-1",
@@ -566,7 +622,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RUJ7B_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PDM2332IEC-3P30R-1 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PDM2332IEC-3P30R-1/pwr-dist.-mod.-3x1-pole-3-wire-rcd-32a-3xiec309-300cm%2C-360cm%2C-420cm/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PDM2332IEC-3P30R-1/pwr-dist.-mod.-3x1-pole-3-wire-rcd-32a-3xiec309-300cm%2C-360cm%2C-420cm/",
+    "available": true
 }
 {
     "repositoryId": "PDM2332IEC-3P30R-2",
@@ -576,7 +633,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RUJ7B_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PDM2332IEC-3P30R-2 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PDM2332IEC-3P30R-2/power-dist.-mod.-3x1-pole-3-wire-rcd-32a-3xiec309-480cm%2C-540cm%2C-600cm/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PDM2332IEC-3P30R-2/power-dist.-mod.-3x1-pole-3-wire-rcd-32a-3xiec309-480cm%2C-540cm%2C-600cm/",
+    "available": true
 }
 {
     "repositoryId": "PDM2332IEC-3P30R-3",
@@ -586,7 +644,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RUJ7B_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PDM2332IEC-3P30R-3 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PDM2332IEC-3P30R-3/power-dist.-mod.-3x1-pole-3-wire-rcd-32a-3xiec309-660cm%2C-720cm%2C-780cm/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PDM2332IEC-3P30R-3/power-dist.-mod.-3x1-pole-3-wire-rcd-32a-3xiec309-660cm%2C-720cm%2C-780cm/",
+    "available": true
 }
 {
     "repositoryId": "PDM316IEC-30R-1040",
@@ -596,7 +655,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RUP77_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PDM316IEC-30R-1040 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PDM316IEC-30R-1040/power-dist.-mod.-3-pole-5-wire-rcd-16a-30ma-iec309-1040cm/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PDM316IEC-30R-1040/power-dist.-mod.-3-pole-5-wire-rcd-16a-30ma-iec309-1040cm/",
+    "available": true
 }
 {
     "repositoryId": "PDM316IEC-30R-140",
@@ -606,7 +666,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RUP77_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric PDM316IEC-30R-140 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/PDM316IEC-30R-140/power-dist.-mod.-3-pole-5-wire-rcd-16a-30ma-iec309-140cm/"
+    "pdpUrl": "https://www.se.com/ww/en/product/PDM316IEC-30R-140/power-dist.-mod.-3-pole-5-wire-rcd-16a-30ma-iec309-140cm/",
+    "available": true
 }
 {
     "repositoryId": "SBB10KH",
@@ -616,7 +677,8 @@
     "currency": "null",
     "pictureUrl": "https://www.se.com/ww/shop-static/assets/images/brand/NoImageAvailable.png",
     "pictureAltText": "Schneider Electric SBB10KH Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SBB10KH/10kw-battery-breaker-box/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SBB10KH/10kw-battery-breaker-box/",
+    "available": true
 }
 {
     "repositoryId": "SBB20KH",
@@ -626,7 +688,8 @@
     "currency": "null",
     "pictureUrl": "https://www.se.com/ww/shop-static/assets/images/brand/NoImageAvailable.png",
     "pictureAltText": "Schneider Electric SBB20KH Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SBB20KH/20kw-battery-breaker-box/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SBB20KH/20kw-battery-breaker-box/",
+    "available": true
 }
 {
     "repositoryId": "SBB40KH",
@@ -636,7 +699,8 @@
     "currency": "null",
     "pictureUrl": "https://www.se.com/ww/shop-static/assets/images/brand/NoImageAvailable.png",
     "pictureAltText": "Schneider Electric SBB40KH Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SBB40KH/40kw-battery-breaker-box/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SBB40KH/40kw-battery-breaker-box/",
+    "available": true
 }
 {
     "repositoryId": "W0N-0044",
@@ -646,7 +710,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RRRRW_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric W0N-0044 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/W0N-0044/fan-module-for-smart-ups-vt-pdu---spare-part/"
+    "pdpUrl": "https://www.se.com/ww/en/product/W0N-0044/fan-module-for-smart-ups-vt-pdu---spare-part/",
+    "available": true
 }
 {
     "repositoryId": "W0P0004",
@@ -656,7 +721,8 @@
     "currency": "null",
     "pictureUrl": "https://www.se.com/ww/shop-static/assets/images/brand/NoImageAvailable.png",
     "pictureAltText": "Schneider Electric W0P0004 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/W0P0004/printed-circuit-board-static-switch-driver-2xmains-208v---spare-part/"
+    "pdpUrl": "https://www.se.com/ww/en/product/W0P0004/printed-circuit-board-static-switch-driver-2xmains-208v---spare-part/",
+    "available": true
 }
 {
     "repositoryId": "W0P0010",
@@ -666,7 +732,8 @@
     "currency": "null",
     "pictureUrl": "https://www.se.com/ww/shop-static/assets/images/brand/NoImageAvailable.png",
     "pictureAltText": "Schneider Electric W0P0010 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/W0P0010/fan-speed-control-board-%28400723%29---spare-part/"
+    "pdpUrl": "https://www.se.com/ww/en/product/W0P0010/fan-speed-control-board-%28400723%29---spare-part/",
+    "available": true
 }
 {
     "repositoryId": "W0P0033",
@@ -676,7 +743,8 @@
     "currency": "null",
     "pictureUrl": "https://www.se.com/ww/shop-static/assets/images/brand/NoImageAvailable.png",
     "pictureAltText": "Schneider Electric W0P0033 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/W0P0033/3-phase-current-transformer---spare-part/"
+    "pdpUrl": "https://www.se.com/ww/en/product/W0P0033/3-phase-current-transformer---spare-part/",
+    "available": true
 }
 {
     "repositoryId": "W0P0034",
@@ -686,7 +754,8 @@
     "currency": "null",
     "pictureUrl": "https://www.se.com/ww/shop-static/assets/images/brand/NoImageAvailable.png",
     "pictureAltText": "Schneider Electric W0P0034 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/W0P0034/static-switch-driver-2xmains---spare-part/"
+    "pdpUrl": "https://www.se.com/ww/en/product/W0P0034/static-switch-driver-2xmains---spare-part/",
+    "available": true
 }
 {
     "repositoryId": "W0P4558",
@@ -696,7 +765,8 @@
     "currency": "null",
     "pictureUrl": "https://www.se.com/ww/shop-static/assets/images/brand/NoImageAvailable.png",
     "pictureAltText": "Schneider Electric W0P4558 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/W0P4558/main-bypass-static-switch-module-circuit-board-for-sl60-80kh---spare-part/"
+    "pdpUrl": "https://www.se.com/ww/en/product/W0P4558/main-bypass-static-switch-module-circuit-board-for-sl60-80kh---spare-part/",
+    "available": true
 }
 {
     "repositoryId": "SURTRK2",
@@ -706,7 +776,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RUBX8_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SURTRK2 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SURTRK2/apc-smart-ups-rt-19%22-rail-kit-for-smart-ups-rt-3-5-7.5-10kva/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SURTRK2/apc-smart-ups-rt-19%22-rail-kit-for-smart-ups-rt-3-5-7.5-10kva/",
+    "available": false
 }
 {
     "repositoryId": "WAP9231",
@@ -716,57 +787,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RSRM8_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric WAP9231 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/WAP9231/generic-ansi-display-%28rm-black-english%29---spare-part/"
-}
-{
-    "repositoryId": "SUVTOPT110",
-    "commercialReference": "SUVTOPT110",
-    "description": "APC Smart-UPS VT Input Breaker for 30kVA/400V UPS",
-    "price": "null",
-    "currency": "null",
-    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RSAD5_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
-    "pictureAltText": "Schneider Electric SUVTOPT110 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SUVTOPT110/apc-smart-ups-vt-input-breaker-for-30kva-400v-ups/"
-}
-{
-    "repositoryId": "SUVTOPT103",
-    "commercialReference": "SUVTOPT103",
-    "description": "APC Smart-UPS VT Subfeed Distribution 400V, (2) CEE-32 32A & (3) IEC 309 - 16A",
-    "price": "null",
-    "currency": "null",
-    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RTCZP_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
-    "pictureAltText": "Schneider Electric SUVTOPT103 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SUVTOPT103/apc-smart-ups-vt-subfeed-distribution-400v%2C-%282%29-cee-32-32a-%26-%283%29-iec-309---16a/"
-}
-{
-    "repositoryId": "SUVTOPT102",
-    "commercialReference": "SUVTOPT102",
-    "description": "APC Smart-UPS VT Subfeed Distribution 400/230V, (12) C19 16A & (1) 50A 3P HW output",
-    "price": "null",
-    "currency": "null",
-    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RTSZ9_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
-    "pictureAltText": "Schneider Electric SUVTOPT102 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SUVTOPT102/apc-smart-ups-vt-subfeed-distribution-400-230v%2C-%2812%29-c19-16a-%26-%281%29-50a-3p-hw-output/"
-}
-{
-    "repositoryId": "SUVTOPT101",
-    "commercialReference": "SUVTOPT101",
-    "description": "APC Smart-UPS VT Subfeed Distribution 400/230V, (12) C19 16A & (1) 40A 3P HW output",
-    "price": "null",
-    "currency": "null",
-    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RTSZ9_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
-    "pictureAltText": "Schneider Electric SUVTOPT101 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SUVTOPT101/apc-smart-ups-vt-subfeed-distribution-400-230v%2C-%2812%29-c19-16a-%26-%281%29-40a-3p-hw-output/"
-}
-{
-    "repositoryId": "SUVTOPT011",
-    "commercialReference": "SUVTOPT011",
-    "description": "APC Smart-UPS VT Parallel Operation Baying Kit",
-    "price": "null",
-    "currency": "null",
-    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RRSBG_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
-    "pictureAltText": "Schneider Electric SUVTOPT011 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SUVTOPT011/apc-smart-ups-vt-parallel-operation-baying-kit/"
+    "pdpUrl": "https://www.se.com/ww/en/product/WAP9231/generic-ansi-display-%28rm-black-english%29---spare-part/",
+    "available": false
 }
 {
     "repositoryId": "SUVTOPT010",
@@ -776,17 +798,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RUJUP_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SUVTOPT010 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SUVTOPT010/apc-smart-ups-vt-parallel-maintenance-bypass-kit/"
-}
-{
-    "repositoryId": "SUVTOPT009S",
-    "commercialReference": "SUVTOPT009S",
-    "description": "APC Smart-UPS VT Parallel Communications Kit, including Installation",
-    "price": "null",
-    "currency": "null",
-    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RSS4K_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
-    "pictureAltText": "Schneider Electric SUVTOPT009S Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SUVTOPT009S/apc-smart-ups-vt-parallel-communications-kit%2C-including-installation/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SUVTOPT010/apc-smart-ups-vt-parallel-maintenance-bypass-kit/",
+    "available": false
 }
 {
     "repositoryId": "SUVTOPT009",
@@ -796,7 +809,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RSS4K_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SUVTOPT009 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SUVTOPT009/apc-smart-ups-vt-parallel-communication-kit/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SUVTOPT009/apc-smart-ups-vt-parallel-communication-kit/",
+    "available": false
 }
 {
     "repositoryId": "SUVTOPT007",
@@ -806,17 +820,85 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RUQY6_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SUVTOPT007 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SUVTOPT007/apc-smart-ups-vt-battery-temperature-sensor-for-external-battery-cabinet/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SUVTOPT007/apc-smart-ups-vt-battery-temperature-sensor-for-external-battery-cabinet/",
+    "available": false
 }
 {
-    "repositoryId": "SUVTOPT006",
-    "commercialReference": "SUVTOPT006",
-    "description": "APC Smart-UPS VT Baying Kit, XR to XR",
+    "repositoryId": "SUVTOPT003",
+    "commercialReference": "SUVTOPT003",
+    "description": "APC Smart-UPS VT Battery Lock Kit for 1 Batt. Module",
     "price": "null",
     "currency": "null",
-    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RUTNH_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
-    "pictureAltText": "Schneider Electric SUVTOPT006 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SUVTOPT006/apc-smart-ups-vt-baying-kit%2C-xr-to-xr/"
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RUG8G_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric SUVTOPT003 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/SUVTOPT003/apc-smart-ups-vt-battery-lock-kit-for-1-batt.-module/",
+    "available": false
+}
+{
+    "repositoryId": "SUVTOPT002",
+    "commercialReference": "SUVTOPT002",
+    "description": "APC Smart-UPS VT Conduit Box for 20.59inch/523mm UPS Enclosure",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RULPJ_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric SUVTOPT002 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/SUVTOPT002/apc-smart-ups-vt-conduit-box-for-20.59inch-523mm-ups-enclosure/",
+    "available": false
+}
+{
+    "repositoryId": "SUVTOPT001",
+    "commercialReference": "SUVTOPT001",
+    "description": "APC Smart-UPS VT Conduit box for 13.85inch/352mm UPS Enclosure",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RUSFR_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric SUVTOPT001 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/SUVTOPT001/apc-smart-ups-vt-conduit-box-for-13.85inch-352mm-ups-enclosure/",
+    "available": false
+}
+{
+    "repositoryId": "SURTRK6",
+    "commercialReference": "SURTRK6",
+    "description": "APC Smart-UPS RC 19\" Rail Kit for 5,6,8,10KVA; (2) rail sets",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_MMAE-7YMQKU_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric SURTRK6 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/SURTRK6/apc-smart-ups-rc-19%22-rail-kit-for-5%2C6%2C8%2C10kva%3B-%282%29-rail-sets/",
+    "available": false
+}
+{
+    "repositoryId": "SURTRK5",
+    "commercialReference": "SURTRK5",
+    "description": "APC Smart-UPS RT 19\" Rail Kit for SRC 3 kVA",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_EWAR-8LUQUV_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric SURTRK5 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/SURTRK5/apc-smart-ups-rt-19%22-rail-kit-for-src-3-kva/",
+    "available": false
+}
+{
+    "repositoryId": "SURTRK4",
+    "commercialReference": "SURTRK4",
+    "description": "APC Smart-UPS RT 19\" Rail Kit for Smart-UPS RT 15/20kVA",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RUP7D_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric SURTRK4 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/SURTRK4/apc-smart-ups-rt-19%22-rail-kit-for-smart-ups-rt-15-20kva/",
+    "available": false
+}
+{
+    "repositoryId": "SURTRK",
+    "commercialReference": "SURTRK",
+    "description": "APC Smart-UPS RT 19\" Rail Kit",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RTREC_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric SURTRK Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/SURTRK/apc-smart-ups-rt-19%22-rail-kit/",
+    "available": false
 }
 {
     "repositoryId": "SYRIM3",
@@ -826,7 +908,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RSE6D_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SYRIM3 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SYRIM3/apc-symmetra-rm-2-6kva-and-8-12kva-redundant-intelligence-module/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SYRIM3/apc-symmetra-rm-2-6kva-and-8-12kva-redundant-intelligence-module/",
+    "available": true
 }
 {
     "repositoryId": "SYPM10K16HQ",
@@ -836,7 +919,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RSFUC_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SYPM10K16HQ Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SYPM10K16HQ/std-exch-apc-symmetra-px-power-module%2C-10-16kw%2C-400v/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SYPM10K16HQ/std-exch-apc-symmetra-px-power-module%2C-10-16kw%2C-400v/",
+    "available": false
 }
 {
     "repositoryId": "SYMIM5",
@@ -846,7 +930,8 @@
     "currency": "null",
     "pictureUrl": "https://www.se.com/ww/shop-static/assets/images/brand/NoImageAvailable.png",
     "pictureAltText": "Schneider Electric SYMIM5 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SYMIM5/apc-symmetra-lx-intelligence-module/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SYMIM5/apc-symmetra-lx-intelligence-module/",
+    "available": true
 }
 {
     "repositoryId": "SYMIM4",
@@ -856,7 +941,8 @@
     "currency": "null",
     "pictureUrl": "https://www.se.com/ww/shop-static/assets/images/brand/NoImageAvailable.png",
     "pictureAltText": "Schneider Electric SYMIM4 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SYMIM4/symmetra-3-phase-intelligence-module/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SYMIM4/symmetra-3-phase-intelligence-module/",
+    "available": true
 }
 {
     "repositoryId": "SYMIM3",
@@ -866,7 +952,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RSE6D_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SYMIM3 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SYMIM3/apc-symmetra-rm-main-intelligence-module/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SYMIM3/apc-symmetra-rm-main-intelligence-module/",
+    "available": true
 }
 {
     "repositoryId": "WSYSW48KH",
@@ -876,7 +963,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RSH37_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric WSYSW48KH Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/WSYSW48KH/static-switch-48kw-for-sycf48kh---spare-part/"
+    "pdpUrl": "https://www.se.com/ww/en/product/WSYSW48KH/static-switch-48kw-for-sycf48kh---spare-part/",
+    "available": false
 }
 {
     "repositoryId": "WSYSW160KH",
@@ -886,7 +974,8 @@
     "currency": "null",
     "pictureUrl": "https://www.se.com/ww/shop-static/assets/images/brand/NoImageAvailable.png",
     "pictureAltText": "Schneider Electric WSYSW160KH Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/WSYSW160KH/static-switch--bypass-module---spare-part/"
+    "pdpUrl": "https://www.se.com/ww/en/product/WSYSW160KH/static-switch--bypass-module---spare-part/",
+    "available": false
 }
 {
     "repositoryId": "WSYMIM16",
@@ -896,7 +985,8 @@
     "currency": "null",
     "pictureUrl": "https://www.se.com/ww/shop-static/assets/images/brand/NoImageAvailable.png",
     "pictureAltText": "Schneider Electric WSYMIM16 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/WSYMIM16/intelligence-module-for-px2---spare-part/"
+    "pdpUrl": "https://www.se.com/ww/en/product/WSYMIM16/intelligence-module-for-px2---spare-part/",
+    "available": true
 }
 {
     "repositoryId": "WSYCSGMON",
@@ -906,7 +996,8 @@
     "currency": "null",
     "pictureUrl": "https://www.se.com/ww/shop-static/assets/images/brand/NoImageAvailable.png",
     "pictureAltText": "Schneider Electric WSYCSGMON Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/WSYCSGMON/symmetra-px-sw-gear-monitoring-card---spare-part/"
+    "pdpUrl": "https://www.se.com/ww/en/product/WSYCSGMON/symmetra-px-sw-gear-monitoring-card---spare-part/",
+    "available": true
 }
 {
     "repositoryId": "WSYBTU2-PLP-OPT1",
@@ -916,7 +1007,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RUC5R_B_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric WSYBTU2-PLP-OPT1 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/WSYBTU2-PLP-OPT1/high-performance-battery-string-9ah-for-symmetra-px-second-generation---spare-part-kit/"
+    "pdpUrl": "https://www.se.com/ww/en/product/WSYBTU2-PLP-OPT1/high-performance-battery-string-9ah-for-symmetra-px-second-generation---spare-part-kit/",
+    "available": false
 }
 {
     "repositoryId": "W803-6100",
@@ -926,7 +1018,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RUE4R_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric W803-6100 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/W803-6100/ar7203-mtg-hdwr---px160-pdu-xr-and-xr---spare-part/"
+    "pdpUrl": "https://www.se.com/ww/en/product/W803-6100/ar7203-mtg-hdwr---px160-pdu-xr-and-xr---spare-part/",
+    "available": false
 }
 {
     "repositoryId": "W515-0118",
@@ -936,7 +1029,8 @@
     "currency": "null",
     "pictureUrl": "https://www.se.com/ww/shop-static/assets/images/brand/NoImageAvailable.png",
     "pictureAltText": "Schneider Electric W515-0118 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/W515-0118/fuse-300a-500vdc-j-class-micro-switch---spare-part/"
+    "pdpUrl": "https://www.se.com/ww/en/product/W515-0118/fuse-300a-500vdc-j-class-micro-switch---spare-part/",
+    "available": true
 }
 {
     "repositoryId": "SY1000K1000H-SPL1",
@@ -946,7 +1040,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RRPMC_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SY1000K1000H-SPL1 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SY1000K1000H-SPL1/apc-symmetra-mw-1000kw-400v-spare-part-kit-level-1/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SY1000K1000H-SPL1/apc-symmetra-mw-1000kw-400v-spare-part-kit-level-1/",
+    "available": true
 }
 {
     "repositoryId": "SY1000K1000H-SPL2",
@@ -956,7 +1051,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RRPMC_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SY1000K1000H-SPL2 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SY1000K1000H-SPL2/apc-symmetra-mw-1000kw-400v-spare-part-kit-level-2/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SY1000K1000H-SPL2/apc-symmetra-mw-1000kw-400v-spare-part-kit-level-2/",
+    "available": true
 }
 {
     "repositoryId": "SY1000K1000H-SPL3",
@@ -966,7 +1062,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RRPMC_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SY1000K1000H-SPL3 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SY1000K1000H-SPL3/apc-symmetra-mw-1000kw-400v-spare-part-kit-level-3/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SY1000K1000H-SPL3/apc-symmetra-mw-1000kw-400v-spare-part-kit-level-3/",
+    "available": true
 }
 {
     "repositoryId": "SY1000K1000H-SPL4",
@@ -976,7 +1073,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RRPMC_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SY1000K1000H-SPL4 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SY1000K1000H-SPL4/apc-symmetra-mw-1000kw-400v-spare-part-kit-level-4/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SY1000K1000H-SPL4/apc-symmetra-mw-1000kw-400v-spare-part-kit-level-4/",
+    "available": true
 }
 {
     "repositoryId": "SY1200K1200H-SPL1",
@@ -986,7 +1084,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RRP5C_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SY1200K1200H-SPL1 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SY1200K1200H-SPL1/apc-symmetra-mw-1200kw-400v-spare-part-kit-level-1/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SY1200K1200H-SPL1/apc-symmetra-mw-1200kw-400v-spare-part-kit-level-1/",
+    "available": true
 }
 {
     "repositoryId": "SY1200K1200H-SPL2",
@@ -996,7 +1095,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RRP5C_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SY1200K1200H-SPL2 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SY1200K1200H-SPL2/apc-symmetra-mw-1200kw-400v-spare-part-kit-level-2/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SY1200K1200H-SPL2/apc-symmetra-mw-1200kw-400v-spare-part-kit-level-2/",
+    "available": true
 }
 {
     "repositoryId": "SY1200K1200H-SPL3",
@@ -1006,7 +1106,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RRP5C_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SY1200K1200H-SPL3 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SY1200K1200H-SPL3/apc-symmetra-mw-1200kw-400v-spare-part-kit-level-3/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SY1200K1200H-SPL3/apc-symmetra-mw-1200kw-400v-spare-part-kit-level-3/",
+    "available": true
 }
 {
     "repositoryId": "SY1200K1200H-SPL4",
@@ -1016,7 +1117,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RRP5C_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SY1200K1200H-SPL4 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SY1200K1200H-SPL4/apc-symmetra-mw-1200kw-400v-spare-part-kit-level-4/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SY1200K1200H-SPL4/apc-symmetra-mw-1200kw-400v-spare-part-kit-level-4/",
+    "available": true
 }
 {
     "repositoryId": "SY1400K1400H-SPL1",
@@ -1026,7 +1128,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RS57Y_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SY1400K1400H-SPL1 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SY1400K1400H-SPL1/apc-symmetra-mw-1400kw-400v-spare-part-kit-level-1/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SY1400K1400H-SPL1/apc-symmetra-mw-1400kw-400v-spare-part-kit-level-1/",
+    "available": true
 }
 {
     "repositoryId": "SY1400K1400H-SPL2",
@@ -1036,7 +1139,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RS57Y_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SY1400K1400H-SPL2 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SY1400K1400H-SPL2/apc-symmetra-mw-1400kw-400v-spare-part-kit-level-2/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SY1400K1400H-SPL2/apc-symmetra-mw-1400kw-400v-spare-part-kit-level-2/",
+    "available": true
 }
 {
     "repositoryId": "SY1400K1400H-SPL3",
@@ -1046,7 +1150,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RS57Y_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SY1400K1400H-SPL3 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SY1400K1400H-SPL3/apc-symmetra-mw-1400kw-400v-spare-part-kit-level-3/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SY1400K1400H-SPL3/apc-symmetra-mw-1400kw-400v-spare-part-kit-level-3/",
+    "available": true
 }
 {
     "repositoryId": "SY1400K1400H-SPL4",
@@ -1056,7 +1161,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RS57Y_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SY1400K1400H-SPL4 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SY1400K1400H-SPL4/apc-symmetra-mw-1400kw-400v-spare-part-kit-level-4/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SY1400K1400H-SPL4/apc-symmetra-mw-1400kw-400v-spare-part-kit-level-4/",
+    "available": true
 }
 {
     "repositoryId": "SYMBP100F",
@@ -1066,7 +1172,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_EWAR-8VPQ4A_FS_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SYMBP100F Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SYMBP100F/symmetra-px-100-maintenance-bypass-panel%2C-208v/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SYMBP100F/symmetra-px-100-maintenance-bypass-panel%2C-208v/",
+    "available": true
 }
 {
     "repositoryId": "SYOPT600",
@@ -1076,7 +1183,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_EWAR-8M4P8E_FS_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SYOPT600 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SYOPT600/seismic-kit-for-600mm-symmetra-px-100-and-symmetra-px-250-500-frames/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SYOPT600/seismic-kit-for-600mm-symmetra-px-100-and-symmetra-px-250-500-frames/",
+    "available": true
 }
 {
     "repositoryId": "SYMBP160H",
@@ -1086,7 +1194,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_LEAN-9CJQ5P_A_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SYMBP160H Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SYMBP160H/symmetra-px-160-maintenance-bypass-panel%2C-400v/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SYMBP160H/symmetra-px-160-maintenance-bypass-panel%2C-400v/",
+    "available": true
 }
 {
     "repositoryId": "SYWMBP96K160H",
@@ -1096,7 +1205,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_EWAR-8UVTJN_FS_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SYWMBP96K160H Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SYWMBP96K160H/symmetra-px-96-160kw-wall-mounted-maintenance-bypass-panel%2C-400v/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SYWMBP96K160H/symmetra-px-96-160kw-wall-mounted-maintenance-bypass-panel%2C-400v/",
+    "available": true
 }
 {
     "repositoryId": "SYWMBP96K160H2",
@@ -1106,7 +1216,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_LEAN-9FUL8C_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SYWMBP96K160H2 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SYWMBP96K160H2/symmetra-px-96-160kw-value-wall-mounted-maintenance-bypass-panel%2C-400v/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SYWMBP96K160H2/symmetra-px-96-160kw-value-wall-mounted-maintenance-bypass-panel%2C-400v/",
+    "available": true
 }
 {
     "repositoryId": "SYOPT003",
@@ -1116,7 +1227,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RT6ZJ_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SYOPT003 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SYOPT003/symmetra-px-250kw-battery-breaker-enclosure-fuse-kit-500a/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SYOPT003/symmetra-px-250kw-battery-breaker-enclosure-fuse-kit-500a/",
+    "available": true
 }
 {
     "repositoryId": "SYOPT004",
@@ -1126,7 +1238,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RSRMC_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SYOPT004 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SYOPT004/symmetra-px-500kw-battery-breaker-enclosure-fuse-kit-1000a/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SYOPT004/symmetra-px-500kw-battery-breaker-enclosure-fuse-kit-1000a/",
+    "available": true
 }
 {
     "repositoryId": "SYBSC250K500",
@@ -1136,7 +1249,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_LSCZ-A2CL99_FS_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SYBSC250K500 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SYBSC250K500/symmetra-px250-500kw-batt.-enclosure-sidecar-for-remote-battery-solution-with-500a-fuse-kit/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SYBSC250K500/symmetra-px250-500kw-batt.-enclosure-sidecar-for-remote-battery-solution-with-500a-fuse-kit/",
+    "available": true
 }
 {
     "repositoryId": "SYBFF",
@@ -1146,7 +1260,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_LSCZ-A2CL99_FS_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SYBFF Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SYBFF/symmetra-px-500kw-bottom-feed-frame-for-500kw-dual-mains-configs/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SYBFF/symmetra-px-500kw-bottom-feed-frame-for-500kw-dual-mains-configs/",
+    "available": true
 }
 {
     "repositoryId": "SYOPT005",
@@ -1156,7 +1271,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_STOS-7RUNKM_FL_V&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SYOPT005 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SYOPT005/symmetra-px-250-500-air-filter/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SYOPT005/symmetra-px-250-500-air-filter/",
+    "available": true
 }
 {
     "repositoryId": "SYOPT007",
@@ -1166,7 +1282,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_CCAT-7XFLNY_FL_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SYOPT007 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SYOPT007/symmetra-px250-500-third-party-switch-gear-kit/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SYOPT007/symmetra-px250-500-third-party-switch-gear-kit/",
+    "available": true
 }
 {
     "repositoryId": "SYSW250KD",
@@ -1176,7 +1293,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_LSCZ-9ZPHCF_FS_H&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric SYSW250KD Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/SYSW250KD/symmetra-px-250kw-static-switch-module%2C-400-480v/"
+    "pdpUrl": "https://www.se.com/ww/en/product/SYSW250KD/symmetra-px-250kw-static-switch-module%2C-400-480v/",
+    "available": true
 }
 {
     "repositoryId": "VDIB17726B12",
@@ -1186,7 +1304,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=P147253&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric VDIB17726B12 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/VDIB17726B12/actassi-s-one-connector-rj45-shielded-cat-6-box-x-12/"
+    "pdpUrl": "https://www.se.com/ww/en/product/VDIB17726B12/actassi-s-one-connector-rj45-shielded-cat-6-box-x-12/",
+    "available": true
 }
 {
     "repositoryId": "VDIB17726B96",
@@ -1196,7 +1315,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=P147253&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric VDIB17726B96 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/VDIB17726B96/actassi-s-one-connector-rj45-shielded-cat-6-box-x-96/"
+    "pdpUrl": "https://www.se.com/ww/en/product/VDIB17726B96/actassi-s-one-connector-rj45-shielded-cat-6-box-x-96/",
+    "available": true
 }
 {
     "repositoryId": "VDIB1772XB12",
@@ -1206,7 +1326,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=P147251&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric VDIB1772XB12 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/VDIB1772XB12/actassi-s-one-connector-rj45-shielded-cat-6%3Csub%3Ea%3C-sub%3E-box-of-12/"
+    "pdpUrl": "https://www.se.com/ww/en/product/VDIB1772XB12/actassi-s-one-connector-rj45-shielded-cat-6%3Csub%3Ea%3C-sub%3E-box-of-12/",
+    "available": true
 }
 {
     "repositoryId": "VDIB1772XB96",
@@ -1216,7 +1337,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=P147251&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric VDIB1772XB96 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/VDIB1772XB96/actassi-s-one-connector-rj45-shielded-cat-6%3Csub%3Ea%3C-sub%3E-box-x-96/"
+    "pdpUrl": "https://www.se.com/ww/en/product/VDIB1772XB96/actassi-s-one-connector-rj45-shielded-cat-6%3Csub%3Ea%3C-sub%3E-box-x-96/",
+    "available": true
 }
 {
     "repositoryId": "VDIB1772XU12",
@@ -1226,7 +1348,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=P147257&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric VDIB1772XU12 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/VDIB1772XU12/actassi-s-one-connector-rj45-unshielded-cat-6%3Csub%3Ea%3C-sub%3E-box-x-12/"
+    "pdpUrl": "https://www.se.com/ww/en/product/VDIB1772XU12/actassi-s-one-connector-rj45-unshielded-cat-6%3Csub%3Ea%3C-sub%3E-box-x-12/",
+    "available": true
 }
 {
     "repositoryId": "VDIB17726U12",
@@ -1236,7 +1359,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=ODAP121212&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric VDIB17726U12 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/VDIB17726U12/actassi-s-one-connector-rj45-unshielded-cat-6-box-x-12/"
+    "pdpUrl": "https://www.se.com/ww/en/product/VDIB17726U12/actassi-s-one-connector-rj45-unshielded-cat-6-box-x-12/",
+    "available": true
 }
 {
     "repositoryId": "A9C70132",
@@ -1246,7 +1370,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB106254&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9C70132 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9C70132/ara-auto-recloser-aux-for-ic60-1p-1pn-2p---4-prog/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C70132/ara-auto-recloser-aux-for-ic60-1p-1pn-2p---4-prog/",
+    "available": true
 }
 {
     "repositoryId": "A9C70134",
@@ -1256,7 +1381,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB106255&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9C70134 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9C70134/ara-auto-recloser-aux-for-ic60-3p-4p---4-prog/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C70134/ara-auto-recloser-aux-for-ic60-3p-4p---4-prog/",
+    "available": true
 }
 {
     "repositoryId": "A9C70342",
@@ -1266,7 +1392,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB106257&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9C70342 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9C70342/acti9---ara-auto-recloser-aux-for-iid-2p---1-prog/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C70342/acti9---ara-auto-recloser-aux-for-iid-2p---1-prog/",
+    "available": true
 }
 {
     "repositoryId": "A9C70344",
@@ -1276,7 +1403,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB106257&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9C70344 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9C70344/acti9---ara-auto-recloser-aux-for-iid-4p---1-prog/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C70344/acti9---ara-auto-recloser-aux-for-iid-4p---1-prog/",
+    "available": true
 }
 {
     "repositoryId": "A9F03101",
@@ -1286,7 +1414,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB107401&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9F03101 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9F03101/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-1-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-50-ka-%28iec-60947-2%29/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9F03101/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-1-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-50-ka-%28iec-60947-2%29/",
+    "available": false
 }
 {
     "repositoryId": "A9F03102",
@@ -1296,7 +1425,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB107401&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9F03102 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9F03102/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-2-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-50-ka-%28iec-60947-2%29/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9F03102/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-2-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-50-ka-%28iec-60947-2%29/",
+    "available": false
 }
 {
     "repositoryId": "A9F03104",
@@ -1306,7 +1436,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB107401&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9F03104 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9F03104/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-4-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-50-ka-%28iec-60947-2%29/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9F03104/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-4-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-50-ka-%28iec-60947-2%29/",
+    "available": false
 }
 {
     "repositoryId": "A9F03106",
@@ -1316,7 +1447,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB107401&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9F03106 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9F03106/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-6-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-10-ka-%28iec-60947-2%29/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9F03106/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-6-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-10-ka-%28iec-60947-2%29/",
+    "available": false
 }
 {
     "repositoryId": "A9F03110",
@@ -1326,7 +1458,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB107401&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9F03110 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9F03110/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-10-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-10-ka-%28iec-60947-2%29/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9F03110/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-10-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-10-ka-%28iec-60947-2%29/",
+    "available": false
 }
 {
     "repositoryId": "A9F03113",
@@ -1336,7 +1469,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB107401&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9F03113 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9F03113/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-13-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-10-ka-%28iec-60947-2%29/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9F03113/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-13-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-10-ka-%28iec-60947-2%29/",
+    "available": false
 }
 {
     "repositoryId": "A9F03116",
@@ -1346,7 +1480,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB107401&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9F03116 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9F03116/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-16-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-10-ka-%28iec-60947-2%29/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9F03116/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-16-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-10-ka-%28iec-60947-2%29/",
+    "available": false
 }
 {
     "repositoryId": "A9F03120",
@@ -1356,7 +1491,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB107401&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9F03120 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9F03120/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-20-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-10-ka-%28iec-60947-2%29/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9F03120/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-20-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-10-ka-%28iec-60947-2%29/",
+    "available": false
 }
 {
     "repositoryId": "A9F03125",
@@ -1366,7 +1502,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB107401&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9F03125 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9F03125/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-25-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-10-ka-%28iec-60947-2%29/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9F03125/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-25-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-10-ka-%28iec-60947-2%29/",
+    "available": false
 }
 {
     "repositoryId": "A9F03132",
@@ -1376,7 +1513,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB107401&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9F03132 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9F03132/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-32-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-10-ka-%28iec-60947-2%29/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9F03132/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-32-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-10-ka-%28iec-60947-2%29/",
+    "available": false
 }
 {
     "repositoryId": "A9F03140",
@@ -1386,7 +1524,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB107401&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9F03140 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9F03140/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-40-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-10-ka-%28iec-60947-2%29/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9F03140/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-40-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-10-ka-%28iec-60947-2%29/",
+    "available": false
 }
 {
     "repositoryId": "A9F03150",
@@ -1396,7 +1535,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB107401&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9F03150 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9F03150/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-50-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-10-ka-%28iec-60947-2%29/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9F03150/miniature-circuit-breaker%2C-acti9-ic60n%2C-1p%2C-50-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-10-ka-%28iec-60947-2%29/",
+    "available": false
 }
 {
     "repositoryId": "A9C15186",
@@ -1406,7 +1546,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB107129&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9C15186 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9C15186/contactor-with-manual-control-ct---2-no---25-a---230-v-ac/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C15186/contactor-with-manual-control-ct---2-no---25-a---230-v-ac/",
+    "available": true
 }
 {
     "repositoryId": "A9C15185",
@@ -1416,7 +1557,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB107128&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9C15185 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9C15185/contactor-ct---2-no---25-a---230-v-ac/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C15185/contactor-ct---2-no---25-a---230-v-ac/",
+    "available": true
 }
 {
     "repositoryId": "A9C22814",
@@ -1426,7 +1568,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB106087&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9C22814 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9C22814/ict-16a-4no-220...240v-50hz-contactor/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C22814/ict-16a-4no-220...240v-50hz-contactor/",
+    "available": true
 }
 {
     "repositoryId": "A9C20132",
@@ -1436,7 +1579,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB106090&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9C20132 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9C20132/ict-25a-2no-24v-50hz-contactor/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C20132/ict-25a-2no-24v-50hz-contactor/",
+    "available": true
 }
 {
     "repositoryId": "A9C20134",
@@ -1446,7 +1590,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB106094&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9C20134 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9C20134/ict-25a-4no-24v-50hz-contactor/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C20134/ict-25a-4no-24v-50hz-contactor/",
+    "available": true
 }
 {
     "repositoryId": "A9C20137",
@@ -1456,7 +1601,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB106095&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9C20137 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9C20137/ict-25a-4nc-24v-50hz-contactor/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C20137/ict-25a-4nc-24v-50hz-contactor/",
+    "available": true
 }
 {
     "repositoryId": "A9C20162",
@@ -1466,7 +1612,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB106097&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9C20162 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9C20162/ict-63a-2no-24v-50hz-contactor/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C20162/ict-63a-2no-24v-50hz-contactor/",
+    "available": true
 }
 {
     "repositoryId": "A9C20164",
@@ -1476,7 +1623,8 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB106104&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9C20164 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9C20164/ict-63a-4no-24v-50hz-contactor/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C20164/ict-63a-4no-24v-50hz-contactor/",
+    "available": true
 }
 {
     "repositoryId": "A9C20167",
@@ -1486,5 +1634,864 @@
     "currency": "null",
     "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB106105&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
     "pictureAltText": "Schneider Electric A9C20167 Image",
-    "pdpUrl": "https://www.se.com/ww/en/product/A9C20167/ict-63a-4nc-24v-50hz-contactor/"
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C20167/ict-63a-4nc-24v-50hz-contactor/",
+    "available": true
+}
+{
+    "repositoryId": "A9C20232",
+    "commercialReference": "A9C20232",
+    "description": "iCT 25A 2NO 48V 50Hz contactor",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB106090&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9C20232 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C20232/ict-25a-2no-48v-50hz-contactor/",
+    "available": true
+}
+{
+    "repositoryId": "A9C20532",
+    "commercialReference": "A9C20532",
+    "description": "iCT 25A 2NO 220V 50Hz contactor",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB106090&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9C20532 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C20532/ict-25a-2no-220v-50hz-contactor/",
+    "available": true
+}
+{
+    "repositoryId": "A9C20731",
+    "commercialReference": "A9C20731",
+    "description": "iCT 25A 1NO 230...240V 50Hz contactor",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=A9C20731_Image&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9C20731 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C20731/ict-25a-1no-230...240v-50hz-contactor/",
+    "available": true
+}
+{
+    "repositoryId": "A9E18030",
+    "commercialReference": "A9E18030",
+    "description": "Acti9 iPB 1NC single push button grey",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB105259&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9E18030 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9E18030/acti9-ipb-1nc-single-push-button-grey/",
+    "available": true
+}
+{
+    "repositoryId": "A9E18031",
+    "commercialReference": "A9E18031",
+    "description": "Acti9 iPB 1NC single push button red",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB113465&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9E18031 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9E18031/acti9-ipb-1nc-single-push-button-red/",
+    "available": true
+}
+{
+    "repositoryId": "A9E18032",
+    "commercialReference": "A9E18032",
+    "description": "Acti9 iPB 1NO single push button grey",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB105259&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9E18032 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9E18032/acti9-ipb-1no-single-push-button-grey/",
+    "available": true
+}
+{
+    "repositoryId": "A9E18033",
+    "commercialReference": "A9E18033",
+    "description": "Acti9 iPB 1NO-1NC single push button grey",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB105259&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9E18033 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9E18033/acti9-ipb-1no-1nc-single-push-button-grey/",
+    "available": true
+}
+{
+    "repositoryId": "A9E18034",
+    "commercialReference": "A9E18034",
+    "description": "Acti9 iPB 1NO-1NC double push button green/red",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB113466&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9E18034 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9E18034/acti9-ipb-1no-1nc-double-push-button-green-red/",
+    "available": true
+}
+{
+    "repositoryId": "A9E18035",
+    "commercialReference": "A9E18035",
+    "description": "Acti9 iPB 1NO-1NO double push button grey",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB105260&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9E18035 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9E18035/acti9-ipb-1no-1no-double-push-button-grey/",
+    "available": true
+}
+{
+    "repositoryId": "A9E18036",
+    "commercialReference": "A9E18036",
+    "description": "Acti9 iPB 1NO single push button grey - indicator light Green 110-230Vac",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB105261&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9E18036 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9E18036/acti9-ipb-1no-single-push-button-grey---indicator-light-green-110-230vac/",
+    "available": true
+}
+{
+    "repositoryId": "A9E18037",
+    "commercialReference": "A9E18037",
+    "description": "Acti9 iPB 1NC single push button grey - indicator light red 110-230Vac",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB113467&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9E18037 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9E18037/acti9-ipb-1nc-single-push-button-grey---indicator-light-red-110-230vac/",
+    "available": true
+}
+{
+    "repositoryId": "A9E18038",
+    "commercialReference": "A9E18038",
+    "description": "Acti9 iPB 1NO single push button grey - indicator light green 12-48Vac/dc",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB105261&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9E18038 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9E18038/acti9-ipb-1no-single-push-button-grey---indicator-light-green-12-48vac-dc/",
+    "available": true
+}
+{
+    "repositoryId": "A9E18039",
+    "commercialReference": "A9E18039",
+    "description": "Acti9 iPB 1NC single push button grey - indicator light red 12-48Vac/dc",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB113467&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9E18039 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9E18039/acti9-ipb-1nc-single-push-button-grey---indicator-light-red-12-48vac-dc/",
+    "available": true
+}
+{
+    "repositoryId": "A9L08500",
+    "commercialReference": "A9L08500",
+    "description": "iPRD8 modular surge arrester - 1P + N - 350V",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB110275&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9L08500 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9L08500/iprd8-modular-surge-arrester---1p-%2B-n---350v/",
+    "available": true
+}
+{
+    "repositoryId": "A9L20300",
+    "commercialReference": "A9L20300",
+    "description": "iPRD20 modular surge arrester - 3P - 350V",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB110278&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9L20300 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9L20300/iprd20-modular-surge-arrester---3p---350v/",
+    "available": true
+}
+{
+    "repositoryId": "A9L20500",
+    "commercialReference": "A9L20500",
+    "description": "iPRD20 modular surge arrester - 1P + N - 350V",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB110275&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9L20500 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9L20500/iprd20-modular-surge-arrester---1p-%2B-n---350v/",
+    "available": true
+}
+{
+    "repositoryId": "A9L20501",
+    "commercialReference": "A9L20501",
+    "description": "iPRD20r modular surge arrester - 1P + N - 350V - with remote transfert",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB110273&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9L20501 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9L20501/iprd20r-modular-surge-arrester---1p-%2B-n---350v---with-remote-transfert/",
+    "available": true
+}
+{
+    "repositoryId": "A9L20600",
+    "commercialReference": "A9L20600",
+    "description": "iPRD20 modular surge arrester - 3P + N - 350V",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB110281&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9L20600 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9L20600/iprd20-modular-surge-arrester---3p-%2B-n---350v/",
+    "available": true
+}
+{
+    "repositoryId": "A9L20601",
+    "commercialReference": "A9L20601",
+    "description": "iPRD20r modular surge arrester - 3P + N - 350V - with remote transfert",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB110279&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9L20601 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9L20601/iprd20r-modular-surge-arrester---3p-%2B-n---350v---with-remote-transfert/",
+    "available": true
+}
+{
+    "repositoryId": "A9L08300",
+    "commercialReference": "A9L08300",
+    "description": "iPRD8 modular surge arrester - 3P - 350V",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB110278&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9L08300 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9L08300/iprd8-modular-surge-arrester---3p---350v/",
+    "available": true
+}
+{
+    "repositoryId": "A9L08501",
+    "commercialReference": "A9L08501",
+    "description": "iPRD8r modular surge arrester - 1P + N - 350V - with remote transfert",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB110273&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9L08501 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9L08501/iprd8r-modular-surge-arrester---1p-%2B-n---350v---with-remote-transfert/",
+    "available": true
+}
+{
+    "repositoryId": "A9L40301",
+    "commercialReference": "A9L40301",
+    "description": "iPRD40r modular surge arrester - 3P - 350V - with remote transfert",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB110277&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9L40301 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9L40301/iprd40r-modular-surge-arrester---3p---350v---with-remote-transfert/",
+    "available": true
+}
+{
+    "repositoryId": "A9L40501",
+    "commercialReference": "A9L40501",
+    "description": "iPRD40r modular surge arrester - 1P + N - 350V - with remote transfert",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB110273&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9L40501 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9L40501/iprd40r-modular-surge-arrester---1p-%2B-n---350v---with-remote-transfert/",
+    "available": true
+}
+{
+    "repositoryId": "A9L40601",
+    "commercialReference": "A9L40601",
+    "description": "iPRD40r modular surge arrester - 3P + N - 350V - with remote transfert",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB110279&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9L40601 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9L40601/iprd40r-modular-surge-arrester---3p-%2B-n---350v---with-remote-transfert/",
+    "available": true
+}
+{
+    "repositoryId": "A9L65301",
+    "commercialReference": "A9L65301",
+    "description": "iPRD65r modular surge arrester - 3P - 350V - with remote transfert",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB110277&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9L65301 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9L65301/iprd65r-modular-surge-arrester---3p---350v---with-remote-transfert/",
+    "available": true
+}
+{
+    "repositoryId": "A9L15686",
+    "commercialReference": "A9L15686",
+    "description": "iPF K 40 modular surge arrester - 1 pole - 340V",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB114703&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9L15686 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9L15686/ipf-k-40-modular-surge-arrester---1-pole---340v/",
+    "available": true
+}
+{
+    "repositoryId": "A9L15692",
+    "commercialReference": "A9L15692",
+    "description": "iPF K 20 modular surge arrester - 1 pole + N - 340V",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB114702&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9L15692 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9L15692/ipf-k-20-modular-surge-arrester---1-pole-%2B-n---340v/",
+    "available": true
+}
+{
+    "repositoryId": "A9L15687",
+    "commercialReference": "A9L15687",
+    "description": "iPF K 40 modular surge arrester - 1 pole + N - 340V",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB114702&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9L15687 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9L15687/ipf-k-40-modular-surge-arrester---1-pole-%2B-n---340v/",
+    "available": true
+}
+{
+    "repositoryId": "A9L15693",
+    "commercialReference": "A9L15693",
+    "description": "iPF K 20 modular surge arrester - 3 poles + N - 340V",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB114700&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9L15693 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9L15693/ipf-k-20-modular-surge-arrester---3-poles-%2B-n---340v/",
+    "available": true
+}
+{
+    "repositoryId": "A9L15688",
+    "commercialReference": "A9L15688",
+    "description": "iPF K 40 modular surge arrester - 3 poles + N - 340V",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB114700&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9L15688 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9L15688/ipf-k-40-modular-surge-arrester---3-poles-%2B-n---340v/",
+    "available": true
+}
+{
+    "repositoryId": "A9C34811",
+    "commercialReference": "A9C34811",
+    "description": "impulse relay iTLm - 1P - 1NO - 16A - coil 230...240 VAC 50/60Hz",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB106132&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9C34811 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C34811/impulse-relay-itlm---1p---1no---16a---coil-230...240-vac-50-60hz/",
+    "available": true
+}
+{
+    "repositoryId": "A9C33811",
+    "commercialReference": "A9C33811",
+    "description": "impulse relay iTLc - 1P - 1NO - 16A - coil 230...240 VAC 50/60Hz-",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB106130&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9C33811 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C33811/impulse-relay-itlc---1p---1no---16a---coil-230...240-vac-50-60hz-/",
+    "available": true
+}
+{
+    "repositoryId": "A9C33211",
+    "commercialReference": "A9C33211",
+    "description": "impulse relay iTLc - 1P - 1NO - 16A - coil 48 VAC 50/60Hz-",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB106130&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9C33211 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C33211/impulse-relay-itlc---1p---1no---16a---coil-48-vac-50-60hz-/",
+    "available": true
+}
+{
+    "repositoryId": "A9C33111",
+    "commercialReference": "A9C33111",
+    "description": "impulse relay iTLc - 1P - 1NO - 16A - coil 24 VAC 50/60Hz-",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB106130&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9C33111 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C33111/impulse-relay-itlc---1p---1no---16a---coil-24-vac-50-60hz-/",
+    "available": true
+}
+{
+    "repositoryId": "A9C32811",
+    "commercialReference": "A9C32811",
+    "description": "impulse relay iTLs - 1P - 1NO - 16A - coil 110 VDC - 230...240 VAC 50/60Hz",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB106133&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9C32811 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C32811/impulse-relay-itls---1p---1no---16a---coil-110-vdc---230...240-vac-50-60hz/",
+    "available": true
+}
+{
+    "repositoryId": "A9C32211",
+    "commercialReference": "A9C32211",
+    "description": "impulse relay iTLs - 1P - 1NO - 16A - coil 24 VDC - 48 VAC 50/60Hz",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB106133&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9C32211 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C32211/impulse-relay-itls---1p---1no---16a---coil-24-vdc---48-vac-50-60hz/",
+    "available": true
+}
+{
+    "repositoryId": "A9C32111",
+    "commercialReference": "A9C32111",
+    "description": "impulse relay iTLs - 1P - 1NO - 16A - coil 12 VDC - 24 VAC 50/60Hz",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB106133&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9C32111 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C32111/impulse-relay-itls---1p---1no---16a---coil-12-vdc---24-vac-50-60hz/",
+    "available": true
+}
+{
+    "repositoryId": "A9C30831",
+    "commercialReference": "A9C30831",
+    "description": "impulse relay iTL - 1P - 1NO - 32A - coil 110 VDC - 230...240 VAC 50/60Hz",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=A9C30831_Image&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9C30831 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C30831/impulse-relay-itl---1p---1no---32a---coil-110-vdc---230...240-vac-50-60hz/",
+    "available": true
+}
+{
+    "repositoryId": "A9C30815",
+    "commercialReference": "A9C30815",
+    "description": "impulse relay iTLI - 2P - 1NO+1NC - 16A - coil 110 VDC - 230...240 VAC 50/60Hz",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB106131&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9C30815 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C30815/impulse-relay-itli---2p---1no%2B1nc---16a---coil-110-vdc---230...240-vac-50-60hz/",
+    "available": true
+}
+{
+    "repositoryId": "A9C30814",
+    "commercialReference": "A9C30814",
+    "description": "impulse relay iTL - 4P - 4 NO - 16A - coil 110 VDC - 230...240 VAC 50/60Hz",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB106128&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9C30814 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C30814/impulse-relay-itl---4p---4-no---16a---coil-110-vdc---230...240-vac-50-60hz/",
+    "available": true
+}
+{
+    "repositoryId": "A9C30812",
+    "commercialReference": "A9C30812",
+    "description": "impulse relay iTL - 2P - 2 NO - 16A - coil 110 VDC - 230...240 VAC 50/60Hz",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=A9C30812_Image&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9C30812 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C30812/impulse-relay-itl---2p---2-no---16a---coil-110-vdc---230...240-vac-50-60hz/",
+    "available": true
+}
+{
+    "repositoryId": "A9C30811",
+    "commercialReference": "A9C30811",
+    "description": "impulse relay iTL - 1P - 1NO - 16A - coil 110 VDC - 230...240 VAC 50/60Hz",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=A9C30811_Image&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9C30811 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9C30811/impulse-relay-itl---1p---1no---16a---coil-110-vdc---230...240-vac-50-60hz/",
+    "available": true
+}
+{
+    "repositoryId": "A9Q01240",
+    "commercialReference": "A9Q01240",
+    "description": "Vigi iC60 - earth leakage add-on block - 2P - 40A - 30mA - AC type",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=A9Q01240_Image&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9Q01240 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9Q01240/vigi-ic60---earth-leakage-add-on-block---2p---40a---30ma---ac-type/",
+    "available": false
+}
+{
+    "repositoryId": "A9Q04225",
+    "commercialReference": "A9Q04225",
+    "description": "Vigi iC60 - earth leakage add-on block - 2P - 25A - 300mA - AC type",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=A9Q04225_Image&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9Q04225 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9Q04225/vigi-ic60---earth-leakage-add-on-block---2p---25a---300ma---ac-type/",
+    "available": false
+}
+{
+    "repositoryId": "A9Q04240",
+    "commercialReference": "A9Q04240",
+    "description": "Vigi iC60 - earth leakage add-on block - 2P - 40A - 300mA - AC type",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=A9Q04240_Image&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9Q04240 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9Q04240/vigi-ic60---earth-leakage-add-on-block---2p---40a---300ma---ac-type/",
+    "available": false
+}
+{
+    "repositoryId": "A9Q10225",
+    "commercialReference": "A9Q10225",
+    "description": "Vigi iC60 - earth leakage add-on block - 2P - 25A - 10mA - AC type",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=A9Q10225_Image&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9Q10225 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9Q10225/vigi-ic60---earth-leakage-add-on-block---2p---25a---10ma---ac-type/",
+    "available": false
+}
+{
+    "repositoryId": "A9Q11340",
+    "commercialReference": "A9Q11340",
+    "description": "Vigi iC60 - earth leakage add-on block - 3P - 40A - 30mA - AC type",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=A9Q11340_Image&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9Q11340 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9Q11340/vigi-ic60---earth-leakage-add-on-block---3p---40a---30ma---ac-type/",
+    "available": false
+}
+{
+    "repositoryId": "A9Q11440",
+    "commercialReference": "A9Q11440",
+    "description": "Vigi iC60 - earth leakage add-on block - 4P - 40A - 30mA - AC type",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=A9Q11440_Image&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9Q11440 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9Q11440/vigi-ic60---earth-leakage-add-on-block---4p---40a---30ma---ac-type/",
+    "available": false
+}
+{
+    "repositoryId": "A9Q14240",
+    "commercialReference": "A9Q14240",
+    "description": "Vigi iC60 - earth leakage add-on block - 2P - 40A - 300mA - AC type",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=A9Q14240_Image&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9Q14240 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9Q14240/vigi-ic60---earth-leakage-add-on-block---2p---40a---300ma---ac-type/",
+    "available": false
+}
+{
+    "repositoryId": "A9Q14340",
+    "commercialReference": "A9Q14340",
+    "description": "Vigi iC60 - earth leakage add-on block - 3P - 40A - 300mA - AC type",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=A9Q14340_Image&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9Q14340 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9Q14340/vigi-ic60---earth-leakage-add-on-block---3p---40a---300ma---ac-type/",
+    "available": false
+}
+{
+    "repositoryId": "A9Q14425",
+    "commercialReference": "A9Q14425",
+    "description": "Vigi iC60 - earth leakage add-on block - 4P - 25A - 300mA - AC type",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=A9Q14425_Image&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9Q14425 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9Q14425/vigi-ic60---earth-leakage-add-on-block---4p---25a---300ma---ac-type/",
+    "available": false
+}
+{
+    "repositoryId": "A9Q14440",
+    "commercialReference": "A9Q14440",
+    "description": "Vigi iC60 - earth leakage add-on block - 4P - 40A - 300mA - AC type",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=A9Q14440_Image&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9Q14440 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9Q14440/vigi-ic60---earth-leakage-add-on-block---4p---40a---300ma---ac-type/",
+    "available": false
+}
+{
+    "repositoryId": "A9Q31225",
+    "commercialReference": "A9Q31225",
+    "description": "Vigi iC60 - earth leakage add-on block - 2P - 25A - 30mA - SI type",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=A9Q31225_Image&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9Q31225 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9Q31225/vigi-ic60---earth-leakage-add-on-block---2p---25a---30ma---si-type/",
+    "available": false
+}
+{
+    "repositoryId": "A9Q31240",
+    "commercialReference": "A9Q31240",
+    "description": "Vigi iC60 - earth leakage add-on block - 2P - 40A - 30mA - SI type",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=A9Q31240_Image&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9Q31240 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9Q31240/vigi-ic60---earth-leakage-add-on-block---2p---40a---30ma---si-type/",
+    "available": false
+}
+{
+    "repositoryId": "A9R10216",
+    "commercialReference": "A9R10216",
+    "description": "Acti9 iID - RCCB - 2P - 16A - 10mA - type AC",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB104472&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9R10216 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9R10216/acti9-iid---rccb---2p---16a---10ma---type-ac/",
+    "available": true
+}
+{
+    "repositoryId": "A9R10225",
+    "commercialReference": "A9R10225",
+    "description": "Acti9 iID - RCCB - 2P - 25A - 10mA - type AC",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB104472&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9R10225 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9R10225/acti9-iid---rccb---2p---25a---10ma---type-ac/",
+    "available": true
+}
+{
+    "repositoryId": "A9R11225",
+    "commercialReference": "A9R11225",
+    "description": "Acti9 iID - RCCB - 2P - 25A - 30mA - type AC",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB104472&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9R11225 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9R11225/acti9-iid---rccb---2p---25a---30ma---type-ac/",
+    "available": true
+}
+{
+    "repositoryId": "A9R11240",
+    "commercialReference": "A9R11240",
+    "description": "Acti9 iID - RCCB - 2P - 40A - 30mA - type AC",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB104472&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9R11240 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9R11240/acti9-iid---rccb---2p---40a---30ma---type-ac/",
+    "available": true
+}
+{
+    "repositoryId": "A9R11263",
+    "commercialReference": "A9R11263",
+    "description": "Acti9 iID - RCCB - 2P - 63A - 30mA - type AC",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB104472&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9R11263 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9R11263/acti9-iid---rccb---2p---63a---30ma---type-ac/",
+    "available": true
+}
+{
+    "repositoryId": "A9R11280",
+    "commercialReference": "A9R11280",
+    "description": "Acti9 iID - RCCB - 2P - 80A - 30mA - type AC",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB104472&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9R11280 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9R11280/acti9-iid---rccb---2p---80a---30ma---type-ac/",
+    "available": true
+}
+{
+    "repositoryId": "A9R11291",
+    "commercialReference": "A9R11291",
+    "description": "Acti9 iID - RCCB - 2P - 100A - 30mA - type AC",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB104472&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9R11291 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9R11291/acti9-iid---rccb---2p---100a---30ma---type-ac/",
+    "available": true
+}
+{
+    "repositoryId": "A9R11425",
+    "commercialReference": "A9R11425",
+    "description": "Acti9 iID - RCCB - 4P - 25A - 30mA - type AC",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB104473&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9R11425 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9R11425/acti9-iid---rccb---4p---25a---30ma---type-ac/",
+    "available": true
+}
+{
+    "repositoryId": "A9R11440",
+    "commercialReference": "A9R11440",
+    "description": "Acti9 iID - RCCB - 4P - 40A - 30mA - type AC",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB104473&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9R11440 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9R11440/acti9-iid---rccb---4p---40a---30ma---type-ac/",
+    "available": true
+}
+{
+    "repositoryId": "A9R11480",
+    "commercialReference": "A9R11480",
+    "description": "Acti9 iID - RCCB - 4P - 80A - 30mA - type AC",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB104473&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9R11480 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9R11480/acti9-iid---rccb---4p---80a---30ma---type-ac/",
+    "available": true
+}
+{
+    "repositoryId": "A9R11491",
+    "commercialReference": "A9R11491",
+    "description": "Acti9 iID - RCCB - 4P - 100A - 30mA - type AC",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB104473&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9R11491 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9R11491/acti9-iid---rccb---4p---100a---30ma---type-ac/",
+    "available": true
+}
+{
+    "repositoryId": "A9R12240",
+    "commercialReference": "A9R12240",
+    "description": "Acti9 iID - RCCB - 2P - 40A - 100mA - type AC",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB104472&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9R12240 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9R12240/acti9-iid---rccb---2p---40a---100ma---type-ac/",
+    "available": true
+}
+{
+    "repositoryId": "A9P42606",
+    "commercialReference": "A9P42606",
+    "description": "Miniature circuit-breaker, Acti9 iC40, 1P+N, 6 A, B curve, 4500 A (IEC 60898-1), 6 kA (IEC 60947-2)",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=A9P42606_Image&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9P42606 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9P42606/miniature-circuit-breaker%2C-acti9-ic40%2C-1p%2Bn%2C-6-a%2C-b-curve%2C-4500-a-%28iec-60898-1%29%2C-6-ka-%28iec-60947-2%29/",
+    "available": true
+}
+{
+    "repositoryId": "A9P42610",
+    "commercialReference": "A9P42610",
+    "description": "Miniature circuit-breaker, Acti9 iC40, 1P+N, 10 A, B curve, 4500 A (IEC 60898-1), 6 kA (IEC 60947-2)",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=A9P42610_Image&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9P42610 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9P42610/miniature-circuit-breaker%2C-acti9-ic40%2C-1p%2Bn%2C-10-a%2C-b-curve%2C-4500-a-%28iec-60898-1%29%2C-6-ka-%28iec-60947-2%29/",
+    "available": true
+}
+{
+    "repositoryId": "A9P42616",
+    "commercialReference": "A9P42616",
+    "description": "Miniature circuit-breaker, Acti9 iC40, 1P+N, 16 A, B curve, 4500 A (IEC 60898-1), 6 kA (IEC 60947-2)",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=A9P42616_Image&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9P42616 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9P42616/miniature-circuit-breaker%2C-acti9-ic40%2C-1p%2Bn%2C-16-a%2C-b-curve%2C-4500-a-%28iec-60898-1%29%2C-6-ka-%28iec-60947-2%29/",
+    "available": true
+}
+{
+    "repositoryId": "A9P42620",
+    "commercialReference": "A9P42620",
+    "description": "Miniature circuit-breaker, Acti9 iC40, 1P+N, 20 A, B curve, 4500 A (IEC 60898-1), 6 kA (IEC 60947-2)",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB119531&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9P42620 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9P42620/miniature-circuit-breaker%2C-acti9-ic40%2C-1p%2Bn%2C-20-a%2C-b-curve%2C-4500-a-%28iec-60898-1%29%2C-6-ka-%28iec-60947-2%29/",
+    "available": true
+}
+{
+    "repositoryId": "A9P42706",
+    "commercialReference": "A9P42706",
+    "description": "Miniature circuit-breaker, Acti9 iC40, 3P+N, 6 A, B curve, 4500 A (IEC 60898-1), 6 kA (IEC 60947-2)",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB119537&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9P42706 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9P42706/miniature-circuit-breaker%2C-acti9-ic40%2C-3p%2Bn%2C-6-a%2C-b-curve%2C-4500-a-%28iec-60898-1%29%2C-6-ka-%28iec-60947-2%29/",
+    "available": true
+}
+{
+    "repositoryId": "A9P42710",
+    "commercialReference": "A9P42710",
+    "description": "Miniature circuit-breaker, Acti9 iC40, 3P+N, 10 A, B curve, 4500 A (IEC 60898-1), 6 kA (IEC 60947-2)",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB119537&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9P42710 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9P42710/miniature-circuit-breaker%2C-acti9-ic40%2C-3p%2Bn%2C-10-a%2C-b-curve%2C-4500-a-%28iec-60898-1%29%2C-6-ka-%28iec-60947-2%29/",
+    "available": true
+}
+{
+    "repositoryId": "A9P42716",
+    "commercialReference": "A9P42716",
+    "description": "Miniature circuit-breaker, Acti9 iC40, 3P+N, 16 A, B curve, 4500 A (IEC 60898-1), 6 kA (IEC 60947-2)",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB119537&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9P42716 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9P42716/miniature-circuit-breaker%2C-acti9-ic40%2C-3p%2Bn%2C-16-a%2C-b-curve%2C-4500-a-%28iec-60898-1%29%2C-6-ka-%28iec-60947-2%29/",
+    "available": true
+}
+{
+    "repositoryId": "A9P42720",
+    "commercialReference": "A9P42720",
+    "description": "Miniature circuit-breaker, Acti9 iC40, 3P+N, 20 A, B curve, 4500 A (IEC 60898-1), 6 kA (IEC 60947-2)",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB119537&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9P42720 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9P42720/miniature-circuit-breaker%2C-acti9-ic40%2C-3p%2Bn%2C-20-a%2C-b-curve%2C-4500-a-%28iec-60898-1%29%2C-6-ka-%28iec-60947-2%29/",
+    "available": true
+}
+{
+    "repositoryId": "A9P42725",
+    "commercialReference": "A9P42725",
+    "description": "Miniature circuit-breaker, Acti9 iC40, 3P+N, 25 A, B curve, 4500 A (IEC 60898-1), 6 kA (IEC 60947-2)",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB119537&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9P42725 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9P42725/miniature-circuit-breaker%2C-acti9-ic40%2C-3p%2Bn%2C-25-a%2C-b-curve%2C-4500-a-%28iec-60898-1%29%2C-6-ka-%28iec-60947-2%29/",
+    "available": true
+}
+{
+    "repositoryId": "A9P42732",
+    "commercialReference": "A9P42732",
+    "description": "Miniature circuit-breaker, Acti9 iC40, 3P+N, 32 A, B curve, 4500 A (IEC 60898-1), 6 kA (IEC 60947-2)",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB119537&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9P42732 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9P42732/miniature-circuit-breaker%2C-acti9-ic40%2C-3p%2Bn%2C-32-a%2C-b-curve%2C-4500-a-%28iec-60898-1%29%2C-6-ka-%28iec-60947-2%29/",
+    "available": true
+}
+{
+    "repositoryId": "A9P42740",
+    "commercialReference": "A9P42740",
+    "description": "Miniature circuit-breaker, Acti9 iC40, 3P+N, 40 A, B curve, 4500 A (IEC 60898-1), 6 kA (IEC 60947-2)",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=PB119537&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9P42740 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9P42740/miniature-circuit-breaker%2C-acti9-ic40%2C-3p%2Bn%2C-40-a%2C-b-curve%2C-4500-a-%28iec-60898-1%29%2C-6-ka-%28iec-60947-2%29/",
+    "available": true
+}
+{
+    "repositoryId": "A9P44606",
+    "commercialReference": "A9P44606",
+    "description": "Miniature circuit-breaker, Acti9 iC40N, 1P+N, 6 A, B curve, 6000 A (IEC 60898-1), 10 kA (IEC 60947-2)",
+    "price": "null",
+    "currency": "null",
+    "pictureUrl": "https://download.schneider-electric.com/files?p_Doc_Ref=A9P44606_Image&p_File_Type=rendition_113_png&default_image=DefaultProductImage.png",
+    "pictureAltText": "Schneider Electric A9P44606 Image",
+    "pdpUrl": "https://www.se.com/ww/en/product/A9P44606/miniature-circuit-breaker%2C-acti9-ic40n%2C-1p%2Bn%2C-6-a%2C-b-curve%2C-6000-a-%28iec-60898-1%29%2C-10-ka-%28iec-60947-2%29/",
+    "available": true
 }

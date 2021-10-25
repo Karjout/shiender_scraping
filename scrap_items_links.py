@@ -1,5 +1,5 @@
+#karjout abdeslam
 import requests
-from time import sleep
 from bs4 import BeautifulSoup
 def get_html(url):
     response = requests.get(url)

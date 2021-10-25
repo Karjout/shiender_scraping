@@ -1,3 +1,4 @@
+#karjout abdeslam
 import requests
 import json
 import pandas as pd
@@ -13,22 +14,13 @@ def get_items(url):
     'currency':'null',
     'pictureUrl':response['products'][0]['pictureUrl'],
     'pictureAltText':response['products'][0]['pictureAltText'],
-    'pdpUrl':response['products'][0]['pdpUrl']
+    'pdpUrl':response['products'][0]['pdpUrl'],
+    'available':response['products'][0]['available']
     }
     with open("Produits.json", 'a') as fout:
         json_dumps_str = json.dumps(data_net, indent=4)
         print(json_dumps_str, file=fout)
     
-# def save_data(data):
-#     try:
-#         with open('Produits.csv', 'w') as f:
-#             for key, value in data:
-#                 writer = csv.DictWriter(f, fieldnames=key)
-#                 writer.writeheader()
-#                 writer.writerow(value)
-#     except IOError:
-#         print("I/O error")
-
 def load_data():
     with open('ids.txt', 'r') as f:
         return f.read().splitlines()

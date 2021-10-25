@@ -1,6 +1,6 @@
+#karjout abdeslam
 from bs4 import BeautifulSoup
 import requests
-from time import sleep
 def read_links_file():
     with open('links.txt', 'r') as f:     
         return f.read().splitlines()

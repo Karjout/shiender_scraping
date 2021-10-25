@@ -94,7 +94,7 @@ https://www.se.com/africa/fr/product-range/62589-armoires-netshelter-sv/
 https://www.se.com/africa/fr/product-range/61821-armoires-netshelter-sx/
 https://www.se.com/africa/fr/product-range/2086-artec/
 https://www.se.com/africa/fr/product-range/1875-as-i-design/
-https://www.se.com/africa/fr/product-range/627-as-interface/
+https://www.se.com/africa/fr/product-range/613-as-interface/
 https://www.se.com/africa/fr/product-range/61431-asfora/
 https://www.se.com/africa/fr/product-range/1512-asiswin-2/
 https://www.se.com/africa/fr/product-range/1519-astro-guida/
@@ -105,6 +105,7 @@ https://www.se.com/africa/fr/product-range/61769-av-power-conditioners-%26-batte
 https://www.se.com/africa/fr/product-range/39294413-aveva%E2%84%A2-edge/
 https://www.se.com/africa/fr/product-range/39294463-aveva%E2%84%A2-insight/
 https://www.se.com/africa/fr/product-range/39294612-aveva%E2%84%A2-system-platform/
+https://www.se.com/africa/fr/product-range/1500-aveva%E2%84%A2%26nbsp%3Bplant-scada/
 https://www.se.com/africa/fr/product-range/61883-back-ups/
 https://www.se.com/africa/fr/product-range/65987-back-ups-av/
 https://www.se.com/africa/fr/product-range/61911-back-ups-bi/
@@ -141,6 +142,7 @@ https://www.se.com/africa/fr/product-range/1015-canalis-kdp%2C-kba%2C-kbb/
 https://www.se.com/africa/fr/product-range/1752-canalis-kn/
 https://www.se.com/africa/fr/product-range/1753-canalis-ks/
 https://www.se.com/africa/fr/product-range/1754-canalis-kt/
+https://www.se.com/africa/fr/product-range/54844821-caneco-one/
 https://www.se.com/africa/fr/product-range/577-canopen/
 https://www.se.com/africa/fr/product-range/65610-capteurs-d%27humidit%C3%A9/
 https://www.se.com/africa/fr/product-range/65615-capteurs-de-courant/
@@ -279,6 +281,7 @@ https://www.se.com/africa/fr/product-range/2158-en40/
 https://www.se.com/africa/fr/product-range/62382-enclosed-motor-starter-solution-guide/
 https://www.se.com/africa/fr/product-range/61356-enerlin%27x-smartlink/
 https://www.se.com/africa/fr/product-range/63736-esetup-easergy-pro/
+https://www.se.com/africa/fr/product-range/57434544-etap/
 https://www.se.com/africa/fr/product-range/61179-european-hvac-damper-actuators/
 https://www.se.com/africa/fr/product-range/2260-everlux-ferro/
 https://www.se.com/africa/fr/product-range/62159-evlink-load-management-system/
@@ -456,7 +459,6 @@ https://www.se.com/africa/fr/product-range/61611-linergy-%22hot-plug%22-distribu
 https://www.se.com/africa/fr/product-range/61609-linergy-device-feeders/
 https://www.se.com/africa/fr/product-range/61608-linergy-distribution-blocks/
 https://www.se.com/africa/fr/product-range/61607-linergy-power-busbars/
-https://www.se.com/africa/fr/product-range/2001-local-k1%2C-k2/
 https://www.se.com/africa/fr/product-range/1976-local-tesys-ac-contactors/
 https://www.se.com/africa/fr/product-range/2002-local-xb2b.c/
 https://www.se.com/africa/fr/product-range/1999-local-xkb%2C-xkd%2C-xkd-with-encoder/
@@ -571,6 +573,7 @@ https://www.se.com/africa/fr/product-range/7422-motion-sensors---passive-infrare
 https://www.se.com/africa/fr/product-range/7323-motion-sensors---the-wall-%28for-boat%29/
 https://www.se.com/africa/fr/product-range/988-motorpact/
 https://www.se.com/africa/fr/product-range/5839-movement-detectors/
+https://www.se.com/africa/fr/product-range/48127370-mtwo/
 https://www.se.com/africa/fr/product-range/2255-multifix-plus/
 https://www.se.com/africa/fr/product-range/1292-mureva/
 https://www.se.com/africa/fr/product-range/60405-mureva-box/
@@ -672,13 +675,10 @@ https://www.se.com/africa/fr/product-range/920-powerlogic-cm3000/
 https://www.se.com/africa/fr/product-range/921-powerlogic-cm4000/
 https://www.se.com/africa/fr/product-range/1432-powerlogic-egx100/
 https://www.se.com/africa/fr/product-range/2251-powerlogic-ion-eem-4.0/
-https://www.se.com/africa/fr/product-range/1676-powerlogic-ion-enterprise-v5.6/
 https://www.se.com/africa/fr/product-range/1505-powerlogic-ion6200/
 https://www.se.com/africa/fr/product-range/917-powerlogic-pm700/
 https://www.se.com/africa/fr/product-range/916-powerlogic-pm9/
 https://www.se.com/africa/fr/product-range/1568-powerlogic-powerview/
-https://www.se.com/africa/fr/product-range/923-powerlogic-system-manager-3.3/
-https://www.se.com/africa/fr/product-range/1111-powerlogic-system-manager-4.0/
 https://www.se.com/africa/fr/product-range/698-powersuite/
 https://www.se.com/africa/fr/product-range/63626-powertag/
 https://www.se.com/africa/fr/product-range/1161-pragma/
@@ -799,7 +799,6 @@ https://www.se.com/africa/fr/product-range/2574-spacial-vdm/
 https://www.se.com/africa/fr/product-range/7327-special-outlets/
 https://www.se.com/africa/fr/product-range/897-sti/
 https://www.se.com/africa/fr/product-range/61280-struxureware-power-monitoring-expert-7/
-https://www.se.com/africa/fr/product-range/61147-struxureware-powerscada-expert-7.2/
 https://www.se.com/africa/fr/product-range/61874-surgearrest-essential/
 https://www.se.com/africa/fr/product-range/61875-surgearrest-home-office/
 https://www.se.com/africa/fr/product-range/61876-surgearrest-performance/
